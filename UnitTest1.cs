@@ -20,6 +20,7 @@ namespace TestProject1
             "1234567890",
             "1234567890",
             "123456",
+            "1234567890",
             "1234567890")]
         public void ThisIsAnExtremelyLongTestName_SoICanDemonstrateAStrangeBehaviorInDotnetTest_Filter(
             string string1,
@@ -36,7 +37,8 @@ namespace TestProject1
             string string12,
             string string13,
             string string14,
-            string string15)
+            string string15,
+            string string16)
         {
             //Assert.False(true);
         }
